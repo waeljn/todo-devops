@@ -76,10 +76,9 @@ class App extends Component {
             />
             <Route path="/about" component={About} />
           </div>
+          <Footer /> wael JENDOUBI 2 GL 2
         </div>
       </Router>
     );
-  }
-}
-
+  
 export default App;
