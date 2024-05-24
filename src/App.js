@@ -75,8 +75,9 @@ class App extends Component {
               )}
             />
             <Route path="/about" component={About} />
+            <footer> wael JENDOUBI  2 GL 2</footer>
+
           </div>
-          <Footer /> wael JENDOUBI 2 GL 2
         </div>
       </Router>
     );
